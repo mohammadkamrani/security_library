@@ -42,7 +42,7 @@ This repository contains a curated list of security libraries for various progra
 
 - [Microsoft.AspNetCore.Cryptography.KeyDerivation](https://www.nuget.org/packages/Microsoft.AspNetCore.Cryptography.KeyDerivation/): Key derivation algorithms for ASP.NET Core.
 - [Microsoft.AspNetCore.DataProtection](https://www.nuget.org/packages/Microsoft.AspNetCore.DataProtection/): Data protection APIs for protecting and unprotecting data.
-- [NWebsec](https://nwebsec.com/): Middleware for ASP.NET applications to set security-related HTTP headers.
+- [NWebsec](https://docs.nwebsec.com/en/latest/): Middleware for ASP.NET applications to set security-related HTTP headers.
 
 ## Ruby
 
