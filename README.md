@@ -46,7 +46,7 @@ This repository contains a curated list of security libraries for various progra
 
 ## Ruby
 
-- [Ruby on Rails Security Guide](https://guides.rubyonrails.org/security.html): Official guide covering various security aspects in Ruby on Rails applications.
+- [Devise](https://github.com/heartcombo/devise): Official guide covering various security aspects in Ruby on Rails applications.
 - [Brakeman](https://brakemanscanner.org/): A static analysis security vulnerability scanner for Ruby on Rails applications.
 - [rack-protection](https://github.com/rkh/rack-protection): Middleware to protect against typical web attacks for Ruby web applications.
 
