@@ -48,7 +48,7 @@ This repository contains a curated list of security libraries for various progra
 
 - [Devise](https://github.com/heartcombo/devise): A flexible authentication solution for Ruby on Rails.
 - [sinatra/rack-protection](https://github.com/sinatra/sinatra/tree/main/rack-protection#readme): Middleware for protecting against common web attacks (XSS, CSRF, Clickjacking, Directory Traversal, Session Hijacking and IP Spoofing)
-- [rack-protection](https://github.com/rkh/rack-protection): Middleware to protect against typical web attacks for Ruby web applications.
+- [nokogiri](https://github.com/sparklemotion/nokogiri): Securely parses HTML and XML.
 
 ## Python
 
