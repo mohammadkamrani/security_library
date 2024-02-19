@@ -1,4 +1,4 @@
-# Web Application and API Security Libraries
+# Secure Coding: Security Libraries for Web Development
 
 This repository contains a curated list of security libraries for various programming languages commonly used in web application and API development.
 
