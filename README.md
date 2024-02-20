@@ -16,7 +16,7 @@ This repository contains a curated list of security libraries for various progra
 
 ## Golang
 
-- [Gorilla Secure Cookie](https://github.com/gorilla/securecookie): A library for encoding and decoding authenticated and optionally encrypted cookie values.
+- [gorilla/csrf](https://github.com/gorilla/csrf): is a HTTP middleware library that provides cross-site request forgery (CSRF) protection.
 - [jwt-go](https://github.com/dgrijalva/jwt-go): JSON Web Tokens (JWT) implementation for Go.
 - [crypto](https://pkg.go.dev/crypto): Standard cryptographic functions for Go.
 
