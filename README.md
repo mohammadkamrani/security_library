@@ -16,11 +16,16 @@ This repository contains a curated list of security libraries for various progra
 
 ## Golang
 
+- [authelia](https://github.com/authelia/authelia): Authelia is an open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal. It acts as a companion for reverse proxies by allowing, denying, or redirecting requests.
+- [casbin](https://github.com/casbin/casbin): An authorization library that supports access.
+- [caswaf](https://github.com/casbin/caswaf): HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity.
+- [coraza](https://github.com/corazawaf/coraza): OWASP Coraza WAF is a golang modsecurity compatible web application firewall library .
+- [crypto](https://pkg.go.dev/crypto): Standard cryptographic functions for Go.
+control models like ACL, RBAC, and ABAC.
+- [go-password-validator](https://github.com/wagslane/go-password-validator): Validate the Strength of a Password in Go.
 - [gorilla/csrf](https://github.com/gorilla/csrf): is a HTTP middleware library that provides cross-site request forgery (CSRF) protection.
 - [jwt-go](https://github.com/golang-jwt/jwt): JSON Web Tokens (JWT) implementation for Go.
-- [crypto](https://pkg.go.dev/crypto): Standard cryptographic functions for Go.
-- [casbin](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, and ABAC.
-- [caswaf](https://github.com/casbin/caswaf): HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity
+- [secure](https://github.com/unrolled/secure): HTTP middleware for Go that facilitates some quick security wins. 
 
 ## Java
 
