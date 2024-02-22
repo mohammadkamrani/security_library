@@ -29,9 +29,11 @@ control models like ACL, RBAC, and ABAC.
 
 ## Java
 
-- [Spring Security](https://spring.io/projects/spring-security): A powerful and highly customizable authentication and access control framework for Java applications.
-- [OWASP Java HTML Sanitizer](https://owasp.org/www-project-java-html-sanitizer/): A library to help prevent Cross-Site Scripting (XSS) attacks.
-- [Bouncy Castle](https://www.bouncycastle.org/): A cryptographic library for Java that provides APIs for various cryptographic operations.
+- [apache shiro](https://shiro.apache.org/): A versatile security framework for Java applications, providing authentication, authorization, cryptography, and session management.
+- [bouncy castle](https://www.bouncycastle.org/): A cryptographic library for Java that provides APIs for various cryptographic operations.
+- [spring security](https://spring.io/projects/spring-security): A powerful and highly customizable authentication and access control framework for Java applications.
+- [owasp java html sanitizer](https://owasp.org/www-project-java-html-sanitizer/): A library to help prevent Cross-Site Scripting (XSS) attacks.
+
 
 ## Node.js
 
