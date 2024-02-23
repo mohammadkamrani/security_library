@@ -31,15 +31,19 @@ control models like ACL, RBAC, and ABAC.
 
 - [apache shiro](https://shiro.apache.org/): A versatile security framework for Java applications, providing authentication, authorization, cryptography, and session management.
 - [bouncy castle](https://www.bouncycastle.org/): A cryptographic library for Java that provides APIs for various cryptographic operations.
-- [spring security](https://spring.io/projects/spring-security): A powerful and highly customizable authentication and access control framework for Java applications.
 - [owasp java html sanitizer](https://owasp.org/www-project-java-html-sanitizer/): A library to help prevent Cross-Site Scripting (XSS) attacks.
+- [spring security](https://spring.io/projects/spring-security): A powerful and highly customizable authentication and access control framework for Java applications.
+
 
 
 ## Node.js
 
-- [Helmet](https://helmetjs.github.io/): A collection of middleware to help secure Express apps by setting various HTTP headers.
 - [bcrypt](https://www.npmjs.com/package/bcrypt): A library for hashing passwords in Node.js applications.
+- [Helmet](https://github.com/helmetjs/helmet): A collection of middleware to help secure Express apps by setting various HTTP headers.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken): JSON Web Token (JWT) implementation for Node.js.
+- [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible): counts and limits number of actions by key and protects from DDoS and brute force attacks at any scale
+- [passport](https://github.com/jaredhanson/passport): Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. 
+- [validator](https://github.com/validatorjs/validator.js): A library of string validators and sanitizers.
 
 ## PHP
 
