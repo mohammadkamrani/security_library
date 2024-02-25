@@ -53,9 +53,9 @@ control models like ACL, RBAC, and ABAC.
 - [paragonie/random_compat](https://github.com/paragonie/random_compat): A compatibility library providing random_bytes() and random_int() for older PHP versions.
 - [Parsedown](https://github.com/erusev/parsedown): Parsedown is capable of escaping user-input within the HTML that it generates.
 - [PHP Encryption](https://github.com/defuse/php-encryption): A PHP Secure Communications Library providing basic RSA, DSA, and SSH-2 functionality.
-[Security Component - Core](https://github.com/symfony/security-core): Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials.
-[Security Component - CSRF](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
-[Security Component - Guard](https://github.com/symfony/security-guard): The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
+- [Security Component - Core](https://github.com/symfony/security-core): Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials.
+- [Security Component - CSRF](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
+- [Security Component - Guard](https://github.com/symfony/security-guard): The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
 
 ## .NET
 
