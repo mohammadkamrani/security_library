@@ -49,8 +49,13 @@ control models like ACL, RBAC, and ABAC.
 
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier): HTML Purifier is an HTML filtering solution that uses a unique combination of robust whitelists and aggressive parsing to ensure that not only are XSS attacks thwarted, but the resulting HTML is standards compliant.
 - [Laravel Sanctum](https://github.com/laravel/sanctum): A simple package for API token authentication in Laravel PHP applications.
+- [League/OAuth2-Server](https://github.com/thephpleague/oauth2-server): is a standards compliant implementation of an OAuth 2.0 authorization server written in PHP which makes working with OAuth 2.0 trivial.
 - [paragonie/random_compat](https://github.com/paragonie/random_compat): A compatibility library providing random_bytes() and random_int() for older PHP versions.
+- [Parsedown](https://github.com/erusev/parsedown): Parsedown is capable of escaping user-input within the HTML that it generates.
 - [PHP Encryption](https://github.com/defuse/php-encryption): A PHP Secure Communications Library providing basic RSA, DSA, and SSH-2 functionality.
+[Security Component - Core](https://github.com/symfony/security-core): Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials.
+[Security Component - CSRF](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
+[Security Component - Guard](https://github.com/symfony/security-guard): The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
 
 ## .NET
 
