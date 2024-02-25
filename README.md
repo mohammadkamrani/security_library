@@ -48,7 +48,7 @@ control models like ACL, RBAC, and ABAC.
 ## PHP
 
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier): HTML Purifier is an HTML filtering solution that uses a unique combination of robust whitelists and aggressive parsing to ensure that not only are XSS attacks thwarted, but the resulting HTML is standards compliant.
-[Laravel Sanctum](https://github.com/laravel/sanctum): A simple package for API token authentication in Laravel PHP applications.
+- [Laravel Sanctum](https://github.com/laravel/sanctum): A simple package for API token authentication in Laravel PHP applications.
 - [paragonie/random_compat](https://github.com/paragonie/random_compat): A compatibility library providing random_bytes() and random_int() for older PHP versions.
 - [PHP Encryption](https://github.com/defuse/php-encryption): A PHP Secure Communications Library providing basic RSA, DSA, and SSH-2 functionality.
 
