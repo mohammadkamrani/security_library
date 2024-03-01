@@ -69,7 +69,7 @@ control models like ACL, RBAC, and ABAC.
 - [Devise](https://github.com/heartcombo/devise): A flexible authentication solution for Ruby on Rails.
 - [sinatra/rack-protection](https://github.com/sinatra/sinatra/tree/main/rack-protection#readme): Middleware for protecting against common web attacks (XSS, CSRF, Clickjacking, Directory Traversal, Session Hijacking and IP Spoofing)
 - [nokogiri](https://github.com/sparklemotion/nokogiri): Securely parses HTML and XML.
-- [Bycrypt](https://rubygems.org/gems/bcrypt): bcrypt is a sophisticated and secure hash algorithm for hashing passwords
+- [Bycrypt](https://rubygems.org/gems/bcrypt): A library for hashing passwords securely using the bcrypt algorithm in Ruby.
 
 ## Python
 
