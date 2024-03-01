@@ -62,6 +62,7 @@ control models like ACL, RBAC, and ABAC.
 - [ASP.NET Core Identity](https://learn.microsoft.com/en-us/aspnet/identity/): A membership system for building secure ASP.NET Core web applications, providing user authentication, authorization, and account management.
 - [Microsoft.AspNetCore.DataProtection](https://www.nuget.org/packages/Microsoft.AspNetCore.DataProtection/): Data protection APIs for protecting and unprotecting data.
 - [NWebsec](https://docs.nwebsec.com/en/latest/): Helps you set important security headers and detect potentially dangerous redirects.
+- [System.Security.Cryptography](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0): Provides cryptographic services, including secure encoding and decoding of data, as well as many other operations, such as hashing, random number generation, and message authentication. 
 
 ## Ruby
 
