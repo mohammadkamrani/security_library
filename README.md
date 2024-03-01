@@ -59,9 +59,9 @@ control models like ACL, RBAC, and ABAC.
 
 ## .NET
 
-- [Microsoft.AspNetCore.Cryptography.KeyDerivation](https://www.nuget.org/packages/Microsoft.AspNetCore.Cryptography.KeyDerivation/): Key derivation algorithms for ASP.NET Core.
+- [ASP.NET Core Identity](https://learn.microsoft.com/en-us/aspnet/identity/): A membership system for building secure ASP.NET Core web applications, providing user authentication, authorization, and account management.
 - [Microsoft.AspNetCore.DataProtection](https://www.nuget.org/packages/Microsoft.AspNetCore.DataProtection/): Data protection APIs for protecting and unprotecting data.
-- [NWebsec](https://docs.nwebsec.com/en/latest/): Middleware for ASP.NET applications to set security-related HTTP headers.
+- [NWebsec](https://docs.nwebsec.com/en/latest/): Helps you set important security headers and detect potentially dangerous redirects.
 
 ## Ruby
 
